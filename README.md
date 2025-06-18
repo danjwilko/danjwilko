@@ -18,6 +18,10 @@ I'm currently working through the **TryHackMe Junior Penetration Tester pathway*
 ---
 
 ### 🧰 Tech Stack & Tools
+Languages: Python • Java • JavaScript • HTML • CSS • TypeScript • SQL
+Frameworks: React • Svelte • Tailwind CSS
+Cyber Tools: TryHackMe • Burp Suite • Nmap • Metasploit • Linux CLI
+Other: Git • GitHub • VS Code • Netlify • GitHub Pages
 
 ---
 
