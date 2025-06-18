@@ -37,7 +37,7 @@ I'm currently working through the **TryHackMe Junior Penetration Tester pathway*
 ### 📫 Contact
 
 - 📧 Email: [danielwilkinson0991@gmail.com](mailto:danielwilkinson0991@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/daniel-j-wilkinson](www.linkedin.com/in/daniel-j-wilkinson)  
+- 💼 LinkedIn: ](www.linkedin.com/in/daniel-j-wilkinson)  
 
 ---
 
