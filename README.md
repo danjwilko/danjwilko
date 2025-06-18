@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 
-I'm currently transitioning from a hands-on technical background into a career in **cybersecurity** and **software development**. Over the past few years, I’ve studied and built skills across:
+I'm transitioning from a hands-on technical background into a career in **cybersecurity** and **software development**. Over the past few years, I’ve studied and built skills across:
 
 - 🧠 Algorithms, data structures, and object-oriented programming (Python, Java)
 - 🌐 Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
@@ -18,10 +18,10 @@ I'm currently working through the **TryHackMe Junior Penetration Tester pathway*
 ---
 
 ### 🧰 Tech Stack & Tools
-Languages: Python • Java • JavaScript • HTML • CSS • TypeScript • SQL
-Frameworks: React • Svelte • Tailwind CSS
-Cyber Tools: TryHackMe • Burp Suite • Nmap • Metasploit • Linux CLI
-Other: Git • GitHub • VS Code • Netlify • GitHub Pages
+**Languages:** Python • Java • JavaScript • HTML • CSS • TypeScript • SQL  
+**Frameworks:** React • Svelte • Tailwind CSS  
+**Cyber Tools:** TryHackMe • Burp Suite • Nmap • Metasploit • Linux CLI  
+**Other:** Git • GitHub • VS Code • Netlify • GitHub Pages
 
 ---
 
