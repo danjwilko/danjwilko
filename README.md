@@ -1,8 +1,43 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in just about everyting tech or engineering oriented, metalwork, 3d-printing, web design, programming and cyber security, also enjoy artwork and leather work.
-- 🌱 I’m currently learning Algorithms and Data structures with python as a module for my degree. But my main knowledge is HTML, CSS, Ive also covered a little Javascript and SQL and Java.
-- 💞️ I’m looking to collaborate on any projects big or small, to build upon skills and knowledge gained from Uni and self study.
-- 📫 Give me a message on LinkedIn https://www.linkedin.com/in/daniel-wilkinson-4b1b1685 or email me via danielwilkinson0991@gmail.com
+# 👋 Hi, I’m Daniel Wilkinson
+
+🎓 Final-year BSc (Hons) Computing & IT student at The Open University  
+🔐 Cybersecurity enthusiast | 💻 Web Developer | 📚 Lifelong learner  
+
+---
+
+### 💡 About Me
+
+I'm currently transitioning from a hands-on technical background into a career in **cybersecurity** and **software development**. Over the past few years, I’ve studied and built skills across:
+
+- 🧠 Algorithms, data structures, and object-oriented programming (Python, Java)
+- 🌐 Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
+- 🛡️ Cybersecurity fundamentals (Linux, networking, privilege escalation, web app vulns)
+
+I'm currently working through the **TryHackMe Junior Penetration Tester pathway**, with plans to complete both the **JPT1 certification** and **CompTIA Security+** by the end of 2025.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+---
+
+### 📌 Goals for 2025
+
+- ✅ Complete THM JPT Pathway
+- 🎯 Pass **JPT1** and **Security+**
+- 🔧 Contribute to open-source or volunteer dev/cyber projects
+- 🚀 Launch a live portfolio site + showcase projects
+
+---
+
+### 📫 Contact
+
+- 📧 Email: [danielwilkinson0991@gmail.com](mailto:danielwilkinson0991@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/danielwilkinson](https://www.linkedin.com/in/danielwilkinson)  
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repositories and reach out if you’d like to collaborate.*
 
 <!---
 danjwilko/danjwilko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
