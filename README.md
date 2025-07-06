@@ -30,7 +30,8 @@ I'm currently working through the **TryHackMe Junior Penetration Tester pathway*
 - ✅ Complete THM JPT Pathway
 - 🎯 Pass **JPT1** and **Security+**
 - 🔧 Contribute to open-source or volunteer dev/cyber projects
-- 🚀 Launch a live portfolio site + showcase projects
+### ✅ Completed 2025 Goals 
+- 🚀 Launched my live portfolio site + completed key showcase projects
 
 ---
 
