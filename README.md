@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 
-I'm transitioning from a hands-on technical background into a career in **cybersecurity** and **software development**. Over the past few years, I’ve studied and developed skills across:
+I'm transitioning from a hands-on technical background into a career in **development** and **cybersecurity**. Over the past few years, I’ve studied and developed skills across:
 
 - 🧠 Algorithms, data structures, and object-oriented programming (Python, Java)
 - 🌐 Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
