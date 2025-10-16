@@ -7,7 +7,7 @@ Cybersecurity enthusiast |  Web Developer | Lifelong learner
 
 ### About Me
 
-I'm transitioning from a hands-on technical background into a career in **development** and **cybersecurity**. Over the past few years, I’ve studied and developed skills across:
+I'm transitioning from a hands-on technical background into a career in the tech sector, with my main focus on development and cybersecurity. Over the past few years, I’ve studied and developed skills across:
 
 - Algorithms, data structures, and object-oriented programming (Python, Java)
 - Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
