@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Daniel Wilkinson
 
-🎓 Final-year BSc (Hons) Computing & IT student at The Open University  
-🔐 Cybersecurity enthusiast | 💻 Web Developer | 📚 Lifelong learner  
+Final-year BSc (Hons) Computing & IT student at The Open University  
+Cybersecurity enthusiast |  Web Developer | Lifelong learner  
 
 ---
 
-### 💡 About Me
+### About Me
 
 I'm transitioning from a hands-on technical background into a career in **development** and **cybersecurity**. Over the past few years, I’ve studied and developed skills across:
 
@@ -13,7 +13,7 @@ I'm transitioning from a hands-on technical background into a career in **develo
 - Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
 - Cybersecurity fundamentals (Linux, networking, privilege escalation, web app vulns)
 
-I'm currently working through the **TryHackMe Junior Penetration Tester pathway**, with plans to complete both the **JPT1 certification** and **CompTIA Security+** by the end of 2025.
+I'm currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2025. Also preparing for my next set of Uni modules: TM351 Data management and analysis which I've just started and then TM359 Systems Penetration Testing, which starts early next year.
 
 ---
 
