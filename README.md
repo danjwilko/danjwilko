@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel Wilkinson
 
 Final-year BSc (Hons) Computing & IT student at The Open University  
-Cybersecurity enthusiast |  Web Developer | Lifelong learner  
+Python Backend Developer | Security Focused Software Engineering
 
 ---
 
@@ -13,24 +13,25 @@ I'm transitioning from a hands-on technical background into a career in the tech
 - Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
 - Cybersecurity fundamentals (Linux, networking, privilege escalation, web app vulns)
 
-I'm currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2025. Also preparing for my next set of Uni modules: TM351 Data management and analysis which I've just started and then TM359 Systems Penetration Testing, which starts early next year.
-
+I'm currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2026. Also preparing for my next set of Uni modules.
 ---
 
 ### Tech Stack & Tools
-**Languages:** Python • Java • JavaScript • HTML • CSS • TypeScript • SQL  
-**Frameworks:** React • Svelte • Tailwind CSS  
+**Languages:** Python • TypeScript • JavaScript • HTML • CSS • SQL  
+**Frameworks:** Django • Django REST Framework • React • Svelte • Tailwind CSS • Bootstrap 5
 **Cyber Tools:** TryHackMe • Burp Suite • Nmap • Metasploit • Linux CLI  
 **Other:** Git • GitHub • VS Code • Netlify • GitHub Pages
 
 ---
 
-### Goals for 2025
+### Goals for 2026
 
+- Finish Secure Notes
+- Implement Zero Knowledge architecture for Password Manager
 - Complete THM JPT Pathway
 - Pass **JPT1** and **Security+**
 - Contribute to open-source or volunteer dev/cyber projects
-### Completed 2025 Goals 
+### Completed 2025/2026 Goals 
 - Launched my live portfolio site + completed key showcase projects.
 - Finished the Python crash course Learning log project.
 - Completed my own password manager project expanding on the PCC Django project.
