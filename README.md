@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel Wilkinson
 
 Final-year BSc (Hons) Computing & IT student at The Open University  
-Python Backend Developer | Security Focused Software Engineering
+Python & Backend Development | Security-Focused Software Engineering
 
 ---
 
@@ -17,9 +17,14 @@ Python Backend Developer | Security Focused Software Engineering
 ### About Me
 
 I'm transitioning from a hands-on engineering background into a career in software development, with a focus on backend systems and cybersecurity. Over the past few years I’ve been developing practical experience through university study and personal projects.
+
 Key areas of study include:
+
+Key areas of study include:
+
 - Algorithms, data structures, and object-oriented programming (Python, Java)
-- Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
+- Backend web development with Python, Django, and Django REST Framework
+- Web development (HTML, CSS, JavaScript/TypeScript, React, Svelte, Tailwind CSS, Bootstrap 5)
 - Cybersecurity fundamentals (Linux, networking, privilege escalation, web app vulns)
 
 I'm also currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2026. Also preparing for my next set of Uni modules.
