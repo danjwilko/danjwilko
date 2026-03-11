@@ -16,8 +16,8 @@ Python Backend Developer | Security Focused Software Engineering
 
 ### About Me
 
-I'm transitioning from a hands-on engineering background into a career in software development, with a focus on backend systems and cybersecurity. Over the past few years I’ve been developing practical experience through university study and personal projects. Notable modules and study areas studied are:
-
+I'm transitioning from a hands-on engineering background into a career in software development, with a focus on backend systems and cybersecurity. Over the past few years I’ve been developing practical experience through university study and personal projects.
+Key areas of study include:
 - Algorithms, data structures, and object-oriented programming (Python, Java)
 - Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
 - Cybersecurity fundamentals (Linux, networking, privilege escalation, web app vulns)
@@ -25,9 +25,12 @@ I'm transitioning from a hands-on engineering background into a career in softwa
 I'm also currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2026. Also preparing for my next set of Uni modules.
 
 ### Tech Stack & Tools
-**Languages:** Python • TypeScript • JavaScript • HTML • CSS • SQL  
+**Languages:** Python • TypeScript • JavaScript • HTML • CSS • SQL
+
 **Frameworks:** Django • Django REST Framework • React • Svelte • Tailwind CSS • Bootstrap 5
-**Cyber Tools:** TryHackMe • Burp Suite • Nmap • Metasploit • Linux CLI  
+
+**Cyber Tools:** TryHackMe • Burp Suite • Nmap • Metasploit • Linux CLI
+
 **Other:** Git • GitHub • VS Code • Netlify • GitHub Pages
 
 ---
@@ -50,7 +53,7 @@ I'm also currently working through the TryHackMe Junior Penetration Tester pathw
 ### Contact
 
 - Contact: [Portfolio Site](https://danielwilkinson-dev.netlify.app)
-- LinkedIn: ](www.linkedin.com/in/daniel-j-wilkinson)  
+- LinkedIn: [linkedin.com/in/daniel-j-wilkinson](https://www.linkedin.com/in/daniel-j-wilkinson)
 
 ---
 
