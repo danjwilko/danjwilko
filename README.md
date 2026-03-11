@@ -5,9 +5,18 @@ Python Backend Developer | Security Focused Software Engineering
 
 ---
 
+### Key Projects
+
+🔐 Secure Password Manager – Django application implementing Argon2id key derivation and Fernet encryption for secure credential storage.
+
+📝 Secure Notes API – Django REST Framework project with JWT authentication, per-user data isolation, and automated pytest testing.
+
+🌐 Beeyond Fitness – Client website built with SvelteKit and Tailwind CSS.
+
+
 ### About Me
 
-I'm transitioning from a hands-on technical background into a career in the tech sector, mostly focusing on development and cybersecurity but also broadening knowledge in other areas. Over the past few years, I’ve studied and developed skills across:
+I'm transitioning from a hands-on engineering background into a career in software development, with a focus on backend systems and cybersecurity. Over the past few years I’ve been developing practical experience through university study and personal projects.Notable Areas studied:
 
 - Algorithms, data structures, and object-oriented programming (Python, Java)
 - Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
