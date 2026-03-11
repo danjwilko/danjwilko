@@ -16,13 +16,13 @@ Python Backend Developer | Security Focused Software Engineering
 
 ### About Me
 
-I'm transitioning from a hands-on engineering background into a career in software development, with a focus on backend systems and cybersecurity. Over the past few years I’ve been developing practical experience through university study and personal projects.Notable Areas studied:
+I'm transitioning from a hands-on engineering background into a career in software development, with a focus on backend systems and cybersecurity. Over the past few years I’ve been developing practical experience through university study and personal projects. Notable modules and study areas studied are:
 
 - Algorithms, data structures, and object-oriented programming (Python, Java)
 - Web development (HTML, CSS, JavaScript, React, Svelte, Tailwind CSS)
 - Cybersecurity fundamentals (Linux, networking, privilege escalation, web app vulns)
 
-I'm currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2026. Also preparing for my next set of Uni modules.
+I'm also currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2026. Also preparing for my next set of Uni modules.
 
 ### Tech Stack & Tools
 **Languages:** Python • TypeScript • JavaScript • HTML • CSS • SQL  
