@@ -14,7 +14,6 @@ I'm transitioning from a hands-on technical background into a career in the tech
 - Cybersecurity fundamentals (Linux, networking, privilege escalation, web app vulns)
 
 I'm currently working through the TryHackMe Junior Penetration Tester pathway, with plans to complete both the JPT1 certification and CompTIA Security+ by the end of 2026. Also preparing for my next set of Uni modules.
----
 
 ### Tech Stack & Tools
 **Languages:** Python • TypeScript • JavaScript • HTML • CSS • SQL  
